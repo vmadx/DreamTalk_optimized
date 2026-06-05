@@ -36,8 +36,19 @@ npm start
 <img src="https://github.com/user-attachments/assets/e273dfae-19b0-47d7-92e3-d48180783ba4" alt="Input image"/>
 
 ### Output videos
-- Original (without enhancement): https://github.com/user-attachments/assets/2f80d54d-68bf-43ad-b384-03cc05fcece8
-- Enhanced: https://github.com/user-attachments/assets/4e10deb0-e443-477c-b8f8-6ec800e3fe97
+
+#### Original (without enhancement) :
+
+<div style="text-align: center;">
+   <video src="https://github.com/user-attachments/assets/2f80d54d-68bf-43ad-b384-03cc05fcece8" controls width="100%"></video>
+</div>
+
+
+#### Upscaled Video :
+
+<div style="text-align: center;">
+   <video width="20px" height= "10px" src="https://github.com/user-attachments/assets/4e10deb0-e443-477c-b8f8-6ec800e3fe97" controls width="100%"></video>
+</div>
 
 
 ## 🌐 Usage
